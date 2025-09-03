@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# main.py, ajustar_comissoes_especiais.py
+# main.py
 # Projeto: Extratos Sellers
 # Autor: Mauricio Luan
 # Data de criação: 07/08/2025
