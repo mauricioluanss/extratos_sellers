@@ -1,0 +1,16 @@
+__pycache__/
+*.json
+*.txt
+*.log
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.ini
+*.xls
+*.xlsx
+*.docx
+.vscode/
+.idea
+
